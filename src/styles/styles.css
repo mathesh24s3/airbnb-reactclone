@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-weight: 300;
+    font-family: "Poppins" , sans-serif;
+}
+
+.light-text {
+    font-weight: 200;
+}
+
+.bold-text {
+    font-weight: 500;
+}
+
+
+section {
+    padding: 2rem ;
+}
+
+
+

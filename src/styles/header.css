@@ -1,0 +1,13 @@
+header {
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+}
+
+nav {
+    padding-block: 1.25rem 1rem;
+    margin-left: 2rem;
+}
+
+.nav--logo {
+    width: 82px;
+    height: 25px;
+}
